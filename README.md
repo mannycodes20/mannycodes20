@@ -1,16 +1,143 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**mannycodes20/mannycodes20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=160&section=header&text=Emmanuel%20Mensah&fontSize=50&fontColor=ffffff&animation=fadeIn)
 
-Here are some ideas to get you started:
+```
+Software Engineering | AI Agents
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Links & Contact
+
+[![GitHub](https://img.shields.io/badge/GitHub-mannycodes20-181717?style=for-the-badge&logo=github)](https://github.com/mannycodes20)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emmanuel%20Mensah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emmanuel-mensah-b297b1291)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Emmanuel_mensah22@yahoo.com)
+
+![Followers](https://img.shields.io/github/followers/mannycodes20?label=Follow&style=social)
+![Stars](https://img.shields.io/github/stars/mannycodes20?label=Stars&style=social)
+
+![Brunel University London](https://img.shields.io/badge/Brunel_University_London-00205B?style=for-the-badge&logoColor=white)
+![BSc CS 2029](https://img.shields.io/badge/BSc_CS_(Software_Engineering)_2029-8A2BE2?style=for-the-badge)
+
+---
+
+🔍 **Quick navigation:** [About Me](#about-me) • [Tech Stack](#my-tech-stack) • [Projects](#projects)
+
+</div>
+
+---
+
+## About Me
+
+I'm Emmanuel Mensah, a first-year Computer Science (Software Engineering) student at Brunel University London. My work sits at the intersection of **desktop application development**, **AI agent systems**, and **creative tooling** — I like building things that solve problems I actually run into, not just projects for a CV.
+
+Before Brunel I studied at Newham Sixth Form College (NewVIc), where I completed a Level 3 BTEC in Computer Science and Games Development with triple-distinction* grades (D\*D\*D) and served as a Student Representative on the Student Council. That's where I started taking software seriously — games coursework pushed me into OOP and mobile development, and I kept building from there.
+
+Outside of coursework, a lot of my learning comes from hobbies colliding with engineering. I edit videos in After Effects, and when I got tired of paying for upscalers that were slow or bad, I built my own in C#/WPF using Real-ESRGAN — which meant learning FFmpeg pipelines and patching MP4 metadata at the byte level because standard libraries couldn't handle my edge cases. I still use it on my own edits. That's the kind of work I enjoy most: picking a real problem and going deep enough to actually fix it.
+
+More recently I've been building multi-agent AI systems. For the **Google Gemini Live Agent Challenge 2026**, I built a system that autonomously operates a Linux desktop to perform engineering design tasks — running CAD automation in FreeCAD, web research through Playwright with Gemini vision, and a planner module powered by Gemini 3.1 Pro that routes requests across specialist agents. Getting the agents to self-correct from errors instead of crashing was the hardest and most rewarding part.
+
+I'm actively expanding into full-stack web development (React + FastAPI) alongside sharpening my core CS fundamentals. If you're working on anything interesting in AI agents, desktop tooling, or creative software — reach out.
+
+---
+
+## My Tech Stack
+
+### Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Frameworks & Libraries
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Google_Gemini_API-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![FreeCAD](https://img.shields.io/badge/FreeCAD-418FDE?style=for-the-badge&logo=freecad&logoColor=white)
+![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+
+### Concepts
+
+`Object-Oriented Programming` · `Multi-Agent Systems` · `Computer Vision` · `Desktop Application Development` · `Video Processing` · `API Design` · `Event-Driven Architecture`
+
+> **NB:** This is a living document reflecting what I'm actively using and what I'm learning. Some tools are part of my daily workflow, others I'm still building fluency in. Growth is the point.
+
+---
+
+## Projects
+
+### General Agent (CU) — Google Gemini Live Agent Challenge 2026
+`Python` · `Google Gemini API` · `Playwright` · `FreeCAD` · `OpenCV`
+
+A multi-agent system that autonomously operates a Linux desktop to perform engineering design tasks using Google Gemini's Computer Use API for vision-based screen control.
+
+- **CAD Agent** — designs 3D parts in FreeCAD through menu-driven GUI interaction and Python macro execution, with dynamic error capture and self-correction
+- **Research Agent** — uses Playwright and Gemini vision to search the web and extract structured data with confidence scores
+- **Documentation Agent** — takes research output and generates automated reports
+- **Planner Module** — powered by Gemini 3.1 Pro, routes complex requests across agents and generates step-by-step FreeCAD workflows
+
+---
+
+### Fook Upscaler
+`C#` · `WPF` · `.NET` · `FFmpeg` · `Real-ESRGAN`
+
+A Windows desktop tool that upscales videos using Real-ESRGAN AI models. Built because I edit video in After Effects as a hobby and existing upscalers were either too slow, too expensive, or both — so I built my own.
+
+- Full pipeline from frame extraction to re-encoding with FFmpeg
+- Custom binary patcher that fixes MP4 timescale and duration metadata directly at the byte level
+- Supports both 32-bit and 64-bit atom formats
+
+---
+
+### Ruto Composer
+`Adobe After Effects` · `ExtendScript/JavaScript`
+
+An After Effects script that automates common composition workflows, cutting down repetitive manual work in my editing pipeline.
+
+- Panel-based UI for streamlined access to frequently used animation and editing operations
+- Lets users quickly fill in and manage layer properties across compositions
+
+---
+
+### Simon Swift — SwiftBot Memory Game
+`Java` · `SwiftBot API` · `Raspberry Pi`
+
+An interactive Simon Says-style memory game built for the SwiftBot robot.
+
+- LED colour sequences, button input, difficulty progression, and a lives system
+- Individual underlight control mapping colours to specific LED positions
+- Celebratory robot dance animations triggered on high scores
+
+---
+
+### SwiftBot Zigzag Program
+`Java` · `SwiftBot API` · `QR Code Input`
+
+An OOP-based zigzag navigation program for the SwiftBot robot.
+
+- Reads length and section count from QR codes, validates input, executes precise zigzag movements with 90-degree turns
+- Path retracing using a stack data structure
+- LED colour feedback for odd/even sections and full execution logging to file
+
+---
+
+<div align="center">
+
+*More projects on my [GitHub](https://github.com/mannycodes20) — thanks for stopping by.*
+
+</div>
