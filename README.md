@@ -1,26 +1,4 @@
-<div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=160&section=header&text=Emmanuel%20Mensah&fontSize=50&fontColor=ffffff&animation=fadeIn)
-
-```
-Software Engineering | AI Agents
-```
-
-### Links & Contact
-
-[![GitHub](https://img.shields.io/badge/GitHub-mannycodes20-181717?style=for-the-badge&logo=github)](https://github.com/mannycodes20)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emmanuel%20Mensah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emmanuel-mensah-b297b1291)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Emmanuel_mensah22@yahoo.com)
-
-![Followers](https://img.shields.io/github/followers/mannycodes20?label=Follow&style=social)
-![Stars](https://img.shields.io/github/stars/mannycodes20?label=Stars&style=social)
-
-![Brunel University London](https://img.shields.io/badge/Brunel_University_London-00205B?style=for-the-badge&logoColor=white)
-![BSc CS 2029](https://img.shields.io/badge/BSc_CS_(Software_Engineering)_2029-8A2BE2?style=for-the-badge)
-
----
-
-🔍 **Quick navigation:** [About Me](#about-me) • [Tech Stack](#my-tech-stack) • [Projects](#projects)
 
 </div>
 
